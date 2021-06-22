@@ -221,7 +221,6 @@ section{
 }
 
 .about-img{
-    background-color: red;
-
+    width: 40%; 
+    padding: 0 15px; 
 }
-
