@@ -221,13 +221,13 @@ section{
 }
 
 .about-img{
-    width: 40%; 
+    width: 35%; 
     padding: 0 15px; 
 }
 
 
 .about-text{
-    width: 60%; 
+    width: 65%; 
     padding: 0 15px; 
 }
 
@@ -238,3 +238,10 @@ section{
     margin:auto; 
     border-radius: 10px; 
 }
+
+
+
+.about-img .img-box img{
+    width: 100%;
+}
+
